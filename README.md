@@ -13,8 +13,8 @@
 
 - Abra o front end em sua IDE;
 - Abra o terminal na pasta do projeto e execute o `npm install`, pra baixar as dependências do Node;
-- Rode o comando `install yarn`;
 - Assim que terminar de baixar as dependências, rode o comando `yarn start`;
+- Se não rodar, use o comando `install yarn` e `yarn start` novamente;
 - Subirá no `http://localhost:3000`  
   
 ## Ferramentas utilizadas
