@@ -8,10 +8,12 @@
     "@testing-library/user-event": "^13.2.1",
     "axios": "^1.2.1",
     "bootstrap": "^5.2.3",
+    "eslint-plugin-react-hooks": "^5.0.0-canary-546fe4681-20230713",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-datepicker": "^4.8.0",
     "react-dom": "^18.2.0",
+    "react-paginate": "^8.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
